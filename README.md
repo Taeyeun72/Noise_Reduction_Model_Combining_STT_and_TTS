@@ -16,9 +16,10 @@
 <img src="images/01.png">
 
 ### 2. GPT를 결합하여 STT의 출력 Text 중 완결된 문장에 대한 오류를 개선하였다.
-GPT-3.5 프롬프트 튜닝
+- GPT-3.5 프롬프트 튜닝
 <img src="images/02.png">
-(왼쪽) STT의 출력 Text, (오른쪽) GPT의 출력 Text
+
+- (왼쪽) STT의 출력 Text, (오른쪽) GPT의 출력 Text
 <img src="images/03.png">
 
 ## 데모 구동 방법
