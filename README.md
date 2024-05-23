@@ -31,3 +31,12 @@
 ### 3. 소음을 제거하고자 하는 음원을 audio 폴더 내에 삽입한다.
 
 ### 4. main.ipynb를 Jupyter에서 실행하여 과정을 따라가면 audio/result 폴더 내에 결과물이 생성된다.
+
+## 파일 구분
+- 10_Preprocessing: train 데이터 전처리
+- 11_FineTuning: STT Whisper 모델 파인튜닝
+- 12_Fine_tuning_Whisper: 사용하지 않았습니다.
+- 13_DNS: DNS 모델로 데이터 전처리
+- 15_Test_Dataset: Test dataset 전처리
+- 17_Test: 논문을 위한 실험들을 진행했습니다.
+- 18_Paper_Image: 논문에 작성할 이미지를 출력
